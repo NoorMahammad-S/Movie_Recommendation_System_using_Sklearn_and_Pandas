@@ -1,4 +1,4 @@
-# Movie_Recommendation_System_using_Sklearn_and_Pandas
+# Movie Recommendation System using Sklearn & Pandas
 A movie recommendation system using data science techniques implemented in Python using collaborative filtering and cosine similarity. It uses the MovieLens dataset, but you can replace it with your own dataset.
 
 ## Getting Started
